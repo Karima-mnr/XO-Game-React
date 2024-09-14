@@ -1,0 +1,15 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
+
+
+
+body {
+  margin: 0;
+  background-color: #0f1B21;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
